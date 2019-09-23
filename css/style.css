@@ -1,0 +1,51 @@
+.navbar{
+	background-color: #fff;
+
+
+}
+.seaction-one{
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/bg.png) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.seaction-part h2,p{
+	text-align: center;
+	color: #fff;
+	font-family: regular;
+	margin-bottom: 30px;
+
+}
+.button{
+	margin-top: 20px;
+	display: block;
+	text-align: center;
+
+}
+.btn{
+	background-color: #fff;
+	text-align: center;
+
+}
+.btn:hover{
+	background-color: red;
+
+}
+.seaction-part-two img{
+	display: block;
+	margin: 0px auto;
+
+}
+.seaction-part-two h2,h6{
+	text-align: center;
+	margin: 10px 0px 20px;
+
+}
+.seaction-three{
+	background-color: ;
+
+}
+.photo-one h2{
+	text-align: center;
+	
+
+}
